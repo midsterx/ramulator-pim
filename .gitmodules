@@ -1,0 +1,3 @@
+[submodule "zsim-ramulator/benchmarks/duckdb"]
+	path = zsim-ramulator/benchmarks/duckdb
+	url = https://github.com/midsterx/duckdb.git
